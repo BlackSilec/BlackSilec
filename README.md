@@ -2,7 +2,7 @@
 <h3 align="center">Developer from Ukraine</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blacksilec&label=Profile%20views&color=2198d4&style=flat" alt="blacksilec" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=blacksilec&label=Profile%20views&color=3b3b3b&style=flat" alt="blacksilec" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
