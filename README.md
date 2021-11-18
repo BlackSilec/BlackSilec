@@ -7,16 +7,11 @@
 - 🌱 I’m currently learning **JavaScript**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://open.spotify.com/user/4hf8sceijayf6wlgivkvooem8">
-<img align="center" alt="Abhishek's Spotify" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-<a href="https://instagram.com/blacksilec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blacksilec" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCybc2GmxOyGXcCd0lUtznHQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucybc2gmxoygxccd0lutznhq" height="30" width="40" /></a>
-</p>
 
-
-
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/BlackSile)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/blacksilec)
+[![Spotify](https://img.shields.io/badge/-Spotify-090909?style=for-the-badge&logo=Spotify&logoColor=Green)](https://open.spotify.com/user/4hf8sceijayf6wlgivkvooem8)
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCybc2GmxOyGXcCd0lUtznHQ)
 
 📊 **This week i spent my time on:**
 ```text
@@ -30,19 +25,20 @@ Heroku       9 mins          ▒░░░░░░░░░░░░░░░░
 
 <h3 align="left">Languages:</h3>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=black)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=black)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![NodeJs](https://img.shields.io/badge/-Node.Js-090909?style=for-the-badge&logo=NODE.JS&logoColor=)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=yellow)
+![Arduino](https://img.shields.io/badge/-Arduino-090909?style=for-the-badge&logo=Arduino&logoColor=)
+![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP&logoColor=)
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=)
 <h3 align="left">OS:</h3>
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-090909?style=for-the-badge&logo=Windows&logoColor=Blue)
+![Android](https://img.shields.io/badge/-Android-090909?style=for-the-badge&logo=Android&logoColor=)
+![KaliLinux](https://img.shields.io/badge/-Kalilinux-090909?style=for-the-badge&logo=kalilinux&logoColor=)
+![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux&logoColor=)
 <h3 align="left">Tools:</h3>
 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=black)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=black)
+![Heroku](https://img.shields.io/badge/-Heroku-090909?style=for-the-badge&logo=HEROKU&logoColor=9d41cc)
+![Adobe Photoshop](https://img.shields.io/badge/-AdobePhotoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=)
