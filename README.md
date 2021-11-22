@@ -29,9 +29,9 @@ Heroku       9 mins          ▒░░░░░░░░░░░░░░░░
 ![NodeJs](https://img.shields.io/badge/-Node.Js-090909?style=for-the-badge&logo=NODE.JS&logoColor=)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=yellow)
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=)
 ![Arduino](https://img.shields.io/badge/-Arduino-090909?style=for-the-badge&logo=Arduino&logoColor=)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP&logoColor=)
-![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=)
 <h3 align="left">OS:</h3>
 
 ![Windows](https://img.shields.io/badge/-Windows-090909?style=for-the-badge&logo=Windows&logoColor=Blue)
