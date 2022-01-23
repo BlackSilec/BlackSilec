@@ -9,9 +9,6 @@
 <h3 align="left">Connect with me:</h3>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/BlackSile)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/blacksilec)
-[![Spotify](https://img.shields.io/badge/-Spotify-090909?style=for-the-badge&logo=Spotify&logoColor=Green)](https://open.spotify.com/user/4hf8sceijayf6wlgivkvooem8)
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCybc2GmxOyGXcCd0lUtznHQ)
 
 📊 **This week i spent my time on:**
 ```text
