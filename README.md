@@ -6,10 +6,6 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-<h3 align="left">Connect with me:</h3>
-
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/BlackSile)
-
 📊 **This week i spent my time on:**
 ```text
 JavaScript   9 hrs 35 mins   ██████████████░░░░░░░░░░░   56.51 % 
