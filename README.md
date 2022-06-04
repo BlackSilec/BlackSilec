@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm BlackSile</h1>
 <h3 align="center">Developer from Ukraine</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blacksilec&label=Profile%20views&color=3b3b3b&style=flat" alt="blacksilec" /> </p>
-
 - 🌱 I’m currently learning **JavaScript**
 
 📊 **This week i spent my time on:**
