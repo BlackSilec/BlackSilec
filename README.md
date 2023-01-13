@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BlackSile</h1>
 <h3 align="center">Developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python**
 
 📊 **This week i spent my time on:**
 ```text
